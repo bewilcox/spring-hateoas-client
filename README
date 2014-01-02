@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+Implementation example of Spring-Hateoas (client wich consume and expose RESTful HATEOAS Service)
+Source from my article : http://bewilcox.blogspot.fr/2013/12/generer-lexposition-de-vos-entites-jpa.html
